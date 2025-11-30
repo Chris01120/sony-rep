@@ -757,7 +757,7 @@ nav{
   color: white;
   font-size: 24px;
   height: 300px;
-  width : 100%;
+  width : 110%;
   font-family: 'Poppins', sans-serif;
   /*line-height: 50px;*/
   /*padding-top: 195px;*/
@@ -825,7 +825,7 @@ nav{
     overflow-y: hidden;    
     gap: 20px;
     margin-right: -400px;
-    width: 100%;
+    width: 110%;
   }
 
 
@@ -847,7 +847,7 @@ nav{
 }
 
 .d-f img{
-    width: 100%;
+    width: 110%;
     height: auto;
 }
 
@@ -876,7 +876,7 @@ nav{
 }
 
 .d-f-11 img{
-    width: 100%;
+    width: 110%;
     height: auto;
 }
 
@@ -929,7 +929,7 @@ nav{
 }
 
 .img_moments img{
-    width: 100%;
+    width: 110%;
     height: auto;
 }
 
@@ -1099,6 +1099,7 @@ nav{
         height: 1270px;
         position: relative;
         display: block !important;
+        width: 110%;
     }
 
     .ft-1{
